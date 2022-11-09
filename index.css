@@ -37,19 +37,19 @@ body {
 	box-sizing: content-box;
 	margin-top: 4.90rem;
 	margin-left: 5.95rem;
-	margin-bottom: 0;
+	margin-bottom: 1rem;
 	white-space:inherit;
-	font-size: 1.15rem;
+	font-size: 1.05rem;
 	line-height: 1.50;
 }
 
 .contact-button{
-	font-size: 1rem;
+	font-size: 15px;
 	font-weight: 600;
-	width: 7.81rem;
-	height: 2.19rem;
+	width: 7rem;
+	height: 2rem;
 	padding: 3px;
-	margin-left: 25px;
+	margin-left: 15px;
 	border-radius: 20px;
 	color: #7796FB;
 	border: 3px solid #7796FB;
@@ -231,10 +231,11 @@ button:nth-child(1){
 
 
 .footer{
-	position: relative;
+	position: fixed;
 	bottom: 0;
 	left: 0;
 	right: 0;
+	margin-top: 25px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -247,6 +248,7 @@ button:nth-child(1){
 	align-items: center;
 	justify-content: space-between;
 	margin-left: 40%;
+	margin-bottom: 5px;
 }
 
 
