@@ -193,7 +193,7 @@ button:nth-child(1){
 	transform: rotate(45deg);
 	top:0;
 }
-@media(min-width:755px){
+@media(min-width:768px){
 	.main-header li{
 		float:left;
 	}
