@@ -10,6 +10,10 @@ body {
 	padding: 0;
 	margin: 0;
 	background-color: #F0F0F0;
+	background-image: url("images/Artboard 1.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
 	font-family: Montserrat, sans-serif;
 }
 
