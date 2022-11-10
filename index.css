@@ -215,6 +215,9 @@ button:nth-child(1){
 	.main-header .menu-icon{
 		display:none;
 	}
+	
+	.profile-pic{
+		display: none;
 }
 .profile{
 	box-sizing: content-box;
