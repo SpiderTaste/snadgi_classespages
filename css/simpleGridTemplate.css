@@ -141,7 +141,15 @@ header {
 	border: 3px solid #f39c12;
 	color: #f39c12;
 	transition: all 0.3s linear;
+	text-decoration: none;
+	text-decoration-color: #f39c12;
 }
+
+.button a:link {
+	text-decoration: none;
+	color: #f39c12;
+}
+
 .button:hover {
 	background-color: #84007B;
 	color: #000000;
